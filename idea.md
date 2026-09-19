@@ -1,0 +1,1 @@
+Remember that this course is for them who no nothing about AI, so we need to educate them what is LLM, AI, topP, topK, temperature etc what ever AI terminology used in the book. Each chapter/subchapter should provide
